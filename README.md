@@ -1,4 +1,6 @@
-<img width="832" alt="image" src="https://github.com/nio2004/nio2004/assets/110836015/b67f58a9-6ea7-4e13-aad6-346156ea1970">
+<p align="center">
+<img width="1000" alt="image" src="https://github.com/nio2004/nio2004/assets/110836015/b67f58a9-6ea7-4e13-aad6-346156ea1970">
+</p>
 
 Hello, I'm Nishant Lanjewar, an enthusiastic self-taught full-stack web developer and a freelance software engineer based in Pune, India. 🚀 My love for software development revolves around turning creative ideas into reality with sleek and user-friendly interfaces. I'm dedicated to ensuring a seamless user experience, solid architecture, and high-quality code in everything I create. 🛠️
 
