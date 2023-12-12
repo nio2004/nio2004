@@ -11,7 +11,7 @@ Currently, I'm pursuing my studies at VIT College in Pune 🎓, where I continue
 If you have any exciting projects or collaborations in mind, feel free to connect! 🤝 Let's code and innovate together! 🚀💻
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/nio2004/nio2004/assets/110836015/bf0bd2d8-fc7a-4349-a08c-f7d065916c80">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
 </p>
 
 ## **Languages And Tools**
