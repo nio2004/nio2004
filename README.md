@@ -30,3 +30,5 @@ If you have any exciting projects or collaborations in mind, feel free to connec
 ## **Connect With Me** 
 <a href="https://www.linkedin.com/in/nishant-lanjewar-838248252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giorgiocarbone" height="20" width="20,7" /></a> 
 <a href="mailto:nishant.lanjewar2004@gmail.com" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="giorgiocarbone" height="30" width="40" /></a>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
